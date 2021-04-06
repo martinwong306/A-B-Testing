@@ -1,4 +1,4 @@
-# A/B & Multivariate testing tutorial [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/iteles/learn-ab-and-multivariate-testing/issues)
+# A/B & Multivariate testing 
 **This is a short introduction to the concepts of A/B and multivariate testing and how to get started.**
 
 For a **practical tutorial on how to do these in [Google Content Experiments](https://developers.google.com/analytics/devguides/platform/experiments-overview)**, please take a look at our overview: https://github.com/iteles/learn-google-content-experiments.
